@@ -1,5 +1,5 @@
 # Ex12 Binary Search Tree
-## DATE:13/03/2025
+## DATE:
 ## AIM:
 To write a C function to insert the elements in the binary search tree
 
@@ -19,8 +19,8 @@ child pointer.
 ```
 /*
 Program to insert the elements in the binary search tree
-Developed by: N.NAVYA SREE
-RegisterNumber: 212223040138  
+Developed by: M.AALIYA FATHIMA
+RegisterNumber: 212223230001
 */
 struct node { 
 int key; 
